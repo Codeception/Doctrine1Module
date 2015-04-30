@@ -1,0 +1,16 @@
+{
+    "name": "codeception/doctrine1module",
+    "description": "Module for Doctrine 1.x ORM",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Davert",
+            "email": "davert.php@resend.cc"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "Codeception\\Module\\":"."
+        }
+    }
+}
